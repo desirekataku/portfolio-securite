@@ -1,0 +1,55 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0d0d0d;
+  color: #f0f0f0;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background-color: #121212;
+}
+
+header a {
+  color: #00ff88;
+  text-decoration: none;
+  border: 1px solid #00ff88;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+section {
+  padding: 2rem;
+  border-bottom: 1px solid #222;
+}
+
+h2 {
+  color: #00ff88;
+}
+
+.project {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 3px solid #00ff88;
+}
+
+form input, form textarea {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: #1e1e1e;
+  border: none;
+  color: #fff;
+}
+
+form button {
+  background: #00ff88;
+  color: black;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  cursor: pointer;
+}
