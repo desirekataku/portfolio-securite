@@ -53,3 +53,21 @@ form button {
   border: none;
   cursor: pointer;
 }
+
+
+#rootme table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+#rootme th, #rootme td {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+}
+
+#rootme th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
